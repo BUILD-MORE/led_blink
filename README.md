@@ -1,2 +1,3 @@
 # led_blink
 Hello guys , here today we are going to learn about interfacing the arduino witht he LED...
+first of all we are going to start with the basic of arduino and then we will jump on to different ways to interface the LED.
